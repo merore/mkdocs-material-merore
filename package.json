@@ -1,5 +1,5 @@
 {
-  "name": "mkdocs-material",
+  "name": "mkdocs-material-merore",
   "version": "9.2.0-b3",
   "description": "Documentation that simply works",
   "keywords": [
@@ -21,7 +21,7 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/squidfunk/mkdocs-material.git"
+    "url": "https://github.com/merore/mkdocs-material-merore.git"
   },
   "scripts": {
     "build": "rimraf material && ts-node -T tools/build --optimize",
